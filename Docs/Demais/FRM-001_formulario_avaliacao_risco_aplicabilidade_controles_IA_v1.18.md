@@ -1,8 +1,8 @@
-# FRM-004 — Formulário de Avaliação de Risco e Aplicabilidade de Controles de Inteligência Artificial
+# FRM-001 — Formulário de Avaliação de Risco e Aplicabilidade de Controles de Inteligência Artificial
 
 | Campo | Valor |
 |---|---|
-| **Código** | FRM-004 |
+| **Código** | FRM-001 |
 | **Nome** | Formulário de Avaliação de Risco e Aplicabilidade de Controles de Inteligência Artificial |
 | **Tipo documental** | Formulário |
 | **Classificação da informação** | Uso Interno |
@@ -12,11 +12,11 @@
 | **Owner institucional** | Segurança da Informação / Segurança de IA / Arquitetura / GRC |
 | **Custodiante técnico** | Segurança de IA / Arquitetura de Segurança da Informação |
 | **Quantidade de perguntas** | 119 |
-| **Fonte** | FRM-004 — Formulário Web de Avaliação de Risco e Controles de IA v1.18 |
+| **Fonte** | Documento autossuficiente FRM-001 — Formulário de Avaliação de Risco e Aplicabilidade de Controles de Inteligência Artificial v1.18 |
 
 ## 1. Finalidade
 
-Este documento apresenta a versão documental do formulário web FRM-004 v1.18. Ele permite coletar as informações utilizadas na classificação H1–H4, no cálculo de impacto e probabilidade, na seleção cumulativa dos baselines técnicos e na geração do Parecer de Segurança.
+Este documento constitui o FRM-001, formulário corporativo autossuficiente para avaliação de risco e aplicabilidade de controles de Inteligência Artificial. Ele reúne, em um único instrumento, a identificação e a triagem do cenário, as informações necessárias à classificação H1–H4, o cálculo de impacto e probabilidade, a seleção cumulativa dos baselines técnicos e a geração do Parecer de Segurança. Não depende do preenchimento de outro formulário.
 
 ## 2. Instruções de preenchimento
 
@@ -30,8 +30,10 @@ Este documento apresenta a versão documental do formulário web FRM-004 v1.18. 
 
 ## 3. Documentos relacionados
 
+> **Autossuficiência:** o FRM-001 concentra o intake, a caracterização do cenário, as perguntas de risco e as entradas para seleção dos controles. Nenhum outro formulário é pré-requisito para seu preenchimento.
+
 - MET-001 v1.1 — Metodologia de Avaliação e Cálculo de Riscos de Soluções de IA.
-- MTR-002 v1.0 — Matriz de Aplicabilidade de Baselines e Controles Técnicos de IA.
+- MTR-001 v1.0 — Matriz de Aplicabilidade de Baselines e Controles Técnicos de IA.
 - BAS-001 a BAS-006 — Baselines técnicos aplicáveis cumulativamente.
 - PRC-003 — Processo de Gestão de Exceções de Segurança de IA.
 
@@ -109,9 +111,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -192,9 +193,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -274,9 +274,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -355,9 +354,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -436,9 +434,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -518,9 +515,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -599,9 +595,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -685,13 +680,12 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
 
 </details>
 
@@ -769,15 +763,14 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
 
 </details>
 
@@ -852,9 +845,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -933,9 +925,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1018,9 +1009,8 @@ Registro do projeto, solicitação, contrato, cronograma, arquitetura ou contato
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 3. Identificação da avaliação
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1115,17 +1105,16 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
-- MTR2-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
-- MTR2-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
-- MTR2-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
-- MTR2-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
+- MTR1-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
+- MTR1-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
+- MTR1-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
+- MTR1-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
+- MTR1-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
 
 </details>
 
@@ -1202,13 +1191,12 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
+- MTR1-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
 
 </details>
 
@@ -1286,9 +1274,8 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1369,9 +1356,8 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1451,16 +1437,15 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
-- MTR2-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
+- MTR1-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
 
 </details>
 
@@ -1535,9 +1520,8 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1616,15 +1600,14 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
-- MTR2-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
+- MTR1-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
 
 </details>
 
@@ -1699,9 +1682,8 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -1781,17 +1763,16 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
-- MTR2-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
-- MTR2-B005-L2
-- MTR2-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
+- MTR1-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
+- MTR1-B005-L2
+- MTR1-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
 
 </details>
 
@@ -1867,16 +1848,15 @@ Arquitetura, inventário de componentes, proposta técnica, catálogo de modelos
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 4. Cenário de uso e modelo de fornecimento
 - MET-001 v1.1 — § 6 — Identificação do cenário e das responsabilidades; § 7 — Classificação H1–H4; § 11 — Seleção dos baselines e controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
-- MTR2-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
-- MTR2-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
+- MTR1-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
+- MTR1-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
 
 </details>
 
@@ -1953,9 +1933,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2034,9 +2013,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2117,9 +2095,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2200,14 +2177,13 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
-- MTR2-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
+- MTR1-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
+- MTR1-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
 
 </details>
 
@@ -2284,14 +2260,13 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
 
 </details>
 
@@ -2368,15 +2343,14 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
-- MTR2-B006-S04 — BAS-006, 4. Coleta, transporte e integração com SIEM: Quando eventos forem enviados a collector, broker, data lake, APM, SIEM ou SOC.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
+- MTR1-B006-S04 — BAS-006, 4. Coleta, transporte e integração com SIEM: Quando eventos forem enviados a collector, broker, data lake, APM, SIEM ou SOC.
 
 </details>
 
@@ -2453,13 +2427,12 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
+- MTR1-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
 
 </details>
 
@@ -2536,9 +2509,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2619,9 +2591,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2702,15 +2673,14 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -2787,16 +2757,15 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
-- MTR2-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
+- MTR1-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -2873,9 +2842,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -2956,9 +2924,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -3038,9 +3005,8 @@ Contrato, DPA, questionário do fornecedor, relatório de auditoria, SLA, certif
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 5. Terceiros, SaaS, COTS e serviços gerenciados
 - MET-001 v1.1 — § 6.2 — Modelo de responsabilidade; § 9 — Probabilidade; § 9.1 — Pisos obrigatórios; § 12 — Avaliação dos controles
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -3128,16 +3094,15 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
-- MTR2-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
-- MTR2-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B001 — BAS-001: Qualquer uso corporativo, projeto, produto, sistema, serviço ou funcionalidade que utilize IA.
+- MTR1-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
+- MTR1-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
 
 </details>
 
@@ -3212,15 +3177,14 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
-- MTR2-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
 
 </details>
 
@@ -3297,14 +3261,13 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
 
 </details>
 
@@ -3381,14 +3344,13 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
 
 </details>
 
@@ -3465,13 +3427,12 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
 
 </details>
 
@@ -3548,14 +3509,13 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
 
 </details>
 
@@ -3632,14 +3592,13 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
 
 </details>
 
@@ -3716,15 +3675,14 @@ Inventário de dados, fluxo de dados, classificação, amostras mascaradas, pol�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 6. Dados, privacidade e sigilo
 - MET-001 v1.1 — § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
-- MTR2-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
+- MTR1-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
 
 </details>
 
@@ -3804,13 +3762,12 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
 
 </details>
 
@@ -3887,20 +3844,19 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
-- MTR2-B002-L2
-- MTR2-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
-- MTR2-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B006-L2
+- MTR1-B001-L2
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
+- MTR1-B002-L2
+- MTR1-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
+- MTR1-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B006-L2
 
 </details>
 
@@ -3977,15 +3933,14 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
 
 </details>
 
@@ -4062,16 +4017,15 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B003-L2
+- MTR1-B001-L2
+- MTR1-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B003-L2
 
 </details>
 
@@ -4148,18 +4102,17 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B002-L2
-- MTR2-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B004-L2
-- MTR2-B006-L2
+- MTR1-B001-L2
+- MTR1-B002-L2
+- MTR1-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B004-L2
+- MTR1-B006-L2
 
 </details>
 
@@ -4236,19 +4189,18 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B002-L2
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B003-L2
-- MTR2-B004-L2
-- MTR2-B005-L2
-- MTR2-B006-L2
+- MTR1-B001-L2
+- MTR1-B002-L2
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B003-L2
+- MTR1-B004-L2
+- MTR1-B005-L2
+- MTR1-B006-L2
 
 </details>
 
@@ -4325,16 +4277,15 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B002-L2
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B006-L2
-- MTR2-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
+- MTR1-B002-L2
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B006-L2
+- MTR1-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
 
 </details>
 
@@ -4411,9 +4362,8 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -4494,9 +4444,8 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -4577,15 +4526,14 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -4662,14 +4610,13 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
 
 </details>
 
@@ -4744,9 +4691,8 @@ Descrição do processo, jornada do usuário, análise de impacto, regras de dec
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 7. Usuários, exposição e impacto de negócio
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Cálculo do impacto; § 9 — Cálculo da probabilidade
-- MTR-002 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
+- MTR-001 v1.0 — § 6 Fluxo de decisão; § 10 Regra individual de controle
 
 **Regras vinculadas:**
 
@@ -4829,19 +4775,18 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
-- MTR2-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
-- MTR2-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
+- MTR1-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
+- MTR1-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
 
 </details>
 
@@ -4918,19 +4863,18 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
-- MTR2-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
-- MTR2-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002 — BAS-002: Aplicação, API, gateway, proxy, broker, roteamento, integração com provider ou exposição de capacidade de IA.
+- MTR1-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
+- MTR1-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
 
 </details>
 
@@ -5007,17 +4951,16 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
 
 </details>
 
@@ -5094,18 +5037,17 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
-- MTR2-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
+- MTR1-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
 
 </details>
 
@@ -5182,19 +5124,18 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
-- MTR2-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
-- MTR2-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S02 — BAS-002, 2. Autenticação e identidade: Quando usuários, workloads ou clientes acessarem aplicação, API, gateway ou provider.
+- MTR1-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
+- MTR1-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
 
 </details>
 
@@ -5271,16 +5212,15 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
 
 </details>
 
@@ -5355,17 +5295,16 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
 
 </details>
 
@@ -5442,17 +5381,16 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
 
 </details>
 
@@ -5529,17 +5467,16 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
 
 </details>
 
@@ -5616,17 +5553,16 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
+- MTR1-B001-S01 — BAS-001, 1. Arquitetura e configuração segura: Sempre que houver componente, deployment, endpoint, runtime, gateway ou ambiente de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S01 — BAS-002, 1. Arquitetura de integração e fronteiras: Quando houver consumo, intermediação, roteamento ou exposição de serviço de IA.
 
 </details>
 
@@ -5703,20 +5639,19 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-L2
-- MTR2-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
+- MTR1-B001-L2
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-L2
+- MTR1-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
 
 </details>
 
@@ -5793,20 +5728,19 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-L2
-- MTR2-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
-- MTR2-B004-L2
+- MTR1-B001-L2
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-L2
+- MTR1-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
+- MTR1-B004-L2
 
 </details>
 
@@ -5883,18 +5817,17 @@ Diagrama, configuração de gateway, IAM, rede, secrets, policy, teste negativo 
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 8. Arquitetura, integração, identidade e acesso
 - MET-001 v1.1 — § 11 — Seleção dos baselines e controles; § 12 — Avaliação dos controles; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-001 — Controles Técnicos Transversais
 - BAS-002 — Integração e Exposição
 
 **Regras vinculadas:**
 
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
-- MTR2-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
-- MTR2-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B002-S03 — BAS-002, 3. Autorização e segregação: Quando houver múltiplos usuários, tenants, ambientes, privilégios, recursos ou políticas de autorização.
+- MTR1-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
+- MTR1-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
 
 </details>
 
@@ -5973,16 +5906,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
-- MTR2-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
+- MTR1-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
 
 </details>
 
@@ -6062,15 +5994,14 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
 
 </details>
 
@@ -6147,19 +6078,18 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
-- MTR2-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
-- MTR2-B003-L2
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
-- MTR2-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
-- MTR2-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
+- MTR1-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
+- MTR1-B003 — BAS-003: RAG, embeddings, vector store, memória, cache semântico, base de conhecimento, ingestão ou recuperação de contexto.
+- MTR1-B003-L2
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
+- MTR1-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
 
 </details>
 
@@ -6236,15 +6166,14 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
-- MTR2-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
 
 </details>
 
@@ -6321,16 +6250,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
-- MTR2-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
-- MTR2-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
+- MTR1-B003-S01 — BAS-003, 1. Fontes, ingestão e elegibilidade: Quando fontes, uploads, conectores, APIs, Internet ou terceiros alimentarem contexto ou conhecimento.
+- MTR1-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
+- MTR1-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
 
 </details>
 
@@ -6407,16 +6335,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-L2
-- MTR2-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
-- MTR2-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
+- MTR1-B003-L2
+- MTR1-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
+- MTR1-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
 
 </details>
 
@@ -6493,17 +6420,16 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-L2
-- MTR2-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
-- MTR2-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
-- MTR2-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
+- MTR1-B003-L2
+- MTR1-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
+- MTR1-B003-S04 — BAS-003, 4. Autorização, segregação e recuperação permitida: Quando dados ou documentos possuírem escopo por usuário, grupo, tenant, classificação ou autorização.
+- MTR1-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
 
 </details>
 
@@ -6580,15 +6506,14 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
-- MTR2-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
+- MTR1-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
+- MTR1-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
 
 </details>
 
@@ -6665,16 +6590,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
-- MTR2-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
-- MTR2-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
+- MTR1-B003-S03 — BAS-003, 3. Embeddings, índices e armazenamento: Quando houver embeddings, índices, vector stores, caches, memória ou armazenamento de derivados.
+- MTR1-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
+- MTR1-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
 
 </details>
 
@@ -6751,16 +6675,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
-- MTR2-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
-- MTR2-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
+- MTR1-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
+- MTR1-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
+- MTR1-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
 
 </details>
 
@@ -6837,16 +6760,15 @@ Manifesto de fontes, ACLs, configuração de ingestão, índices, testes de retr
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 9. RAG, memória e bases de conhecimento — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-003 — Dados, Contexto e Conhecimento
 
 **Regras vinculadas:**
 
-- MTR2-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
-- MTR2-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
-- MTR2-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
+- MTR1-B003-S05 — BAS-003, 5. Retrieval, ranking e montagem de contexto: Quando o sistema recuperar, ranquear, filtrar ou montar contexto para o modelo.
+- MTR1-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
+- MTR1-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
 
 </details>
 
@@ -6925,19 +6847,18 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
-- MTR2-B003-L2
-- MTR2-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
-- MTR2-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
-- MTR2-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
-- MTR2-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
+- MTR1-B001-S05 — BAS-001, 5. Segurança de aplicação e integrações: Quando houver aplicação consumidora, API, integração, sessão, payload, gateway, RAG ou agente.
+- MTR1-B003-L2
+- MTR1-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
+- MTR1-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
+- MTR1-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
+- MTR1-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
 
 </details>
 
@@ -7014,16 +6935,15 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
-- MTR2-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
-- MTR2-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
+- MTR1-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
+- MTR1-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
+- MTR1-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
 
 </details>
 
@@ -7100,17 +7020,16 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
-- MTR2-B004-L2
-- MTR2-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
+- MTR1-B001-L2
+- MTR1-B004 — BAS-004: Agente, planner, executor, tool/function calling, plugin, action, skill, MCP, computer use ou automação acionada por IA.
+- MTR1-B004-L2
+- MTR1-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
 
 </details>
 
@@ -7185,14 +7104,13 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
+- MTR1-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
 
 </details>
 
@@ -7269,19 +7187,18 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B001-L2
-- MTR2-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
-- MTR2-B004-L2
-- MTR2-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-L2
+- MTR1-B001-L2
+- MTR1-B002-S06 — BAS-002, 6. Saída e uso downstream: Quando outputs forem exibidos, persistidos, usados em decisões ou encaminhados a sistemas downstream.
+- MTR1-B004-L2
+- MTR1-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-L2
 
 </details>
 
@@ -7358,16 +7275,15 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
-- MTR2-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
-- MTR2-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
+- MTR1-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
+- MTR1-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
+- MTR1-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
 
 </details>
 
@@ -7444,16 +7360,15 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
-- MTR2-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
-- MTR2-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
+- MTR1-B002-S05 — BAS-002, 5. Entrada, prompt e payload: Quando entradas, prompts, anexos, parâmetros ou conteúdo não confiável forem aceitos.
+- MTR1-B004-S02 — BAS-004, 2. Registro, integridade e schemas de tools: Quando houver tools, functions, actions, skills, plugins, capabilities, resources ou prompts MCP.
+- MTR1-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
 
 </details>
 
@@ -7530,14 +7445,13 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
+- MTR1-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
 
 </details>
 
@@ -7614,15 +7528,14 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
-- MTR2-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
+- MTR1-B004-S01 — BAS-004, 1. Identidades agentic e contexto de execução: Quando existir agente, worker, executor ou ação realizada em nome de usuário ou workload.
+- MTR1-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
 
 </details>
 
@@ -7699,15 +7612,14 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-L2
-- MTR2-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
+- MTR1-B004-L2
+- MTR1-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
 
 </details>
 
@@ -7784,16 +7696,15 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
+- MTR1-B004-S03 — BAS-004, 3. Autorização determinística e limites de ação: Quando o agente puder acessar recurso, tomar decisão ou produzir efeito em sistema externo.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
 
 </details>
 
@@ -7870,17 +7781,16 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
-- MTR2-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
+- MTR1-B004-S04 — BAS-004, 4. Segurança de clientes, servidores e registries MCP: Quando houver cliente, servidor, registry, discovery, resource ou prompt MCP.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
+- MTR1-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
 
 </details>
 
@@ -7957,15 +7867,14 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B004-L2
-- MTR2-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
+- MTR1-B004-L2
+- MTR1-B004-S06 — BAS-004, 6. Sandbox, host, navegador e computer use: Quando houver execução de código, terminal, navegador, desktop, IDE, endpoint ou computer use.
 
 </details>
 
@@ -8042,16 +7951,15 @@ Registry de tools/MCP, schemas, políticas de autorização, limites, logs de a�
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 10. Agentes, tools, MCP e automações — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 8 — Impacto; § 9 — Probabilidade; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 10 — Regra individual de controle
 - BAS-004 — Agentes, Ferramentas e Protocolos Agentic
 
 **Regras vinculadas:**
 
-- MTR2-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
-- MTR2-B004-L2
-- MTR2-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
+- MTR1-B003-S07 — BAS-003, 7. Memória, caches e dados derivados em execução: Quando houver memória persistente, cache semântico, estado conversacional ou compartilhamento de contexto.
+- MTR1-B004-L2
+- MTR1-B004-S07 — BAS-004, 7. Memória, delegação e comunicação entre agentes: Quando houver memória agentic, agentes secundários, delegação, comunicação multiagente ou contexto persistente.
 
 </details>
 
@@ -8128,17 +8036,16 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
-- MTR2-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
-- MTR2-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005 — BAS-005: Desenvolvimento, treinamento, adaptação, empacotamento, registro, avaliação, implantação ou gestão de modelo e artefatos de IA.
+- MTR1-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
+- MTR1-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
 
 </details>
 
@@ -8215,17 +8122,16 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
-- MTR2-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
-- MTR2-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B003-S02 — BAS-003, 2. Transformação, parsing e metadados: Quando houver parsing, chunking, normalização, enriquecimento, OCR ou geração de derivados.
+- MTR1-B005-S01 — BAS-005, 1. Repositórios, código e versionamento: Quando código, notebook, prompt, policy, manifesto ou configuração for desenvolvido ou mantido para a solução.
+- MTR1-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
 
 </details>
 
@@ -8302,15 +8208,14 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005-S02 — BAS-005, 2. Datasets, prompts e configurações de treinamento e avaliação: Quando houver treinamento, fine-tuning, avaliação, dataset, prompt sistêmico ou configuração de geração por release.
 
 </details>
 
@@ -8387,15 +8292,14 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
 
 </details>
 
@@ -8472,17 +8376,16 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005-L2
-- MTR2-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
-- MTR2-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005-L2
+- MTR1-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
+- MTR1-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
 
 </details>
 
@@ -8559,17 +8462,16 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005-L2
-- MTR2-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
-- MTR2-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005-L2
+- MTR1-B005-S03 — BAS-005, 3. Modelos, artefatos e registries: Quando modelos, weights, checkpoints, adapters, tokenizers ou bundles forem registrados, carregados ou distribuídos.
+- MTR1-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
 
 </details>
 
@@ -8646,16 +8548,15 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B005-L2
-- MTR2-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B005-L2
+- MTR1-B005-S04 — BAS-005, 4. Dependências, containers e proveniência: Quando builds utilizarem pacotes, containers, imagens, dependências ou artefatos externos.
 
 </details>
 
@@ -8732,15 +8633,14 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B005-L2
-- MTR2-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
+- MTR1-B005-L2
+- MTR1-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
 
 </details>
 
@@ -8817,15 +8717,14 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
-- MTR2-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
+- MTR1-B005-S05 — BAS-005, 5. Pipelines MLOps, LLMOps e ambientes de build: Quando houver pipeline de dados, treinamento, build, teste, promoção ou deploy.
+- MTR1-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
 
 </details>
 
@@ -8902,15 +8801,14 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B005-L2
-- MTR2-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
+- MTR1-B005-L2
+- MTR1-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
 
 </details>
 
@@ -8987,16 +8885,15 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -9073,16 +8970,15 @@ Repositório, commits, hashes, SBOM/AI BOM, registry, pipeline, evals, assinatur
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 11. Desenvolvimento, modelos e MLOps — preencher quando aplicável
 - MET-001 v1.1 — § 7 — Classificação H1–H4; § 9 — Probabilidade; § 11 — Seleção dos controles
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.5 — BAS-005: desenvolvimento e MLOps; § 10 — Regra individual de controle
 - BAS-005 — Desenvolvimento, Versionamento, MLOps e Cadeia de Suprimentos
 
 **Regras vinculadas:**
 
-- MTR2-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
-- MTR2-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
-- MTR2-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
+- MTR1-B001-S04 — BAS-001, 4. Modelos, runtime e cadeia de fornecimento: Quando houver modelo, runtime, container, dependência, provider, artefato ou atualização técnica.
+- MTR1-B002-S04 — BAS-002, 4. Roteamento, modelos e policies: Quando houver escolha de provider/modelo, aliases, rotas, fallback ou policies de gateway.
+- MTR1-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
 
 </details>
 
@@ -9161,17 +9057,16 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
-- MTR2-B006-S01 — BAS-006, 1. Geração de eventos e integridade temporal: Quando execuções, decisões, erros ou bloqueios precisarem produzir eventos auditáveis.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006-S01 — BAS-006, 1. Geração de eventos e integridade temporal: Quando execuções, decisões, erros ou bloqueios precisarem produzir eventos auditáveis.
 
 </details>
 
@@ -9248,16 +9143,15 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S01 — BAS-006, 1. Geração de eventos e integridade temporal: Quando execuções, decisões, erros ou bloqueios precisarem produzir eventos auditáveis.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S01 — BAS-006, 1. Geração de eventos e integridade temporal: Quando execuções, decisões, erros ou bloqueios precisarem produzir eventos auditáveis.
 
 </details>
 
@@ -9334,16 +9228,15 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S02 — BAS-006, 2. Correlação e contexto ponta a ponta: Quando o fluxo atravessar aplicação, gateway, provider, RAG, agente, tool, fila ou sistema downstream.
 
 </details>
 
@@ -9420,17 +9313,16 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
 
 </details>
 
@@ -9507,17 +9399,16 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
+- MTR1-B001-S03 — BAS-001, 3. Proteção de dados, prompts e outputs: Quando a solução processar, armazenar, transmitir ou produzir dados, prompts, anexos, contexto ou outputs.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
 
 </details>
 
@@ -9594,19 +9485,18 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
-- MTR2-B006-L2
-- MTR2-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
-- MTR2-B006-S04 — BAS-006, 4. Coleta, transporte e integração com SIEM: Quando eventos forem enviados a collector, broker, data lake, APM, SIEM ou SOC.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006-L2
+- MTR1-B006-S03 — BAS-006, 3. Proteção, minimização e integridade dos registros: Quando logs, traces, prompts, outputs ou eventos contiverem informação sensível ou evidência crítica.
+- MTR1-B006-S04 — BAS-006, 4. Coleta, transporte e integração com SIEM: Quando eventos forem enviados a collector, broker, data lake, APM, SIEM ou SOC.
 
 </details>
 
@@ -9683,21 +9573,20 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
-- MTR2-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
-- MTR2-B006-L2
-- MTR2-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B003-S06 — BAS-003, 6. Proteção contra poisoning e conteúdo adversarial: Quando fontes externas, uploads ou conteúdo não confiável puderem influenciar ingestão ou recuperação.
+- MTR1-B004-S05 — BAS-004, 5. Proteção contra instruções e capabilities adversariais: Quando conteúdo não confiável puder influenciar planejamento, seleção de tool, capability ou instrução do agente.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B005-S06 — BAS-005, 6. Testes, evals e critérios técnicos de release: Quando releases, modelos, prompts ou soluções forem avaliados antes da promoção ou contratação.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006-L2
+- MTR1-B006-S05 — BAS-006, 5. Detecções técnicas de segurança para IA: Quando forem necessárias detecções de vazamento, prompt injection, abuso agentic, poisoning, shadow AI ou MCP desconhecido.
 
 </details>
 
@@ -9774,18 +9663,17 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
-- MTR2-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
-- MTR2-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
+- MTR1-B001-S06 — BAS-001, 6. Logging, auditoria e monitoramento: Quando a solução estiver em teste material, homologação, produção ou processar dados relevantes.
+- MTR1-B002-S07 — BAS-002, 7. Exposição, sessão e abuso: Quando houver Internet, clientes, público, muitos usuários, sessão, streaming, custo ou risco de abuso.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B005-S07 — BAS-005, 7. Deploy, serving e mudança técnica: Quando houver deployment, endpoint, serving, atualização, reconciliação ou mudança de versão/configuração.
+- MTR1-B006-S06 — BAS-006, 6. Anomalias de comportamento, custo e desempenho: Quando volume, custo, tokens, loops, drift, falha, latência ou saturação precisarem ser monitorados.
 
 </details>
 
@@ -9862,19 +9750,18 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.2 — BAS-002: integração e exposição; § 9.4 — BAS-004: agentes, ferramentas e MCP; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
-- MTR2-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
-- MTR2-B006-L2
-- MTR2-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B002-S08 — BAS-002, 8. Resiliência e comportamento de falha: Quando a integração exigir timeout, retry, fallback, circuit breaker, fail-closed ou continuidade.
+- MTR1-B004-S08 — BAS-004, 8. Observabilidade agentic e comportamento fail-safe: Quando ações agentic exigirem logs, correlação, detecção, kill switch, limites e comportamento seguro.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006-L2
+- MTR1-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
 
 </details>
 
@@ -9951,18 +9838,17 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.3 — BAS-003: dados, contexto e conhecimento; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
-- MTR2-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
-- MTR2-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B003-S08 — BAS-003, 8. Retenção, exclusão, sincronização e recuperação: Quando dados, índices, embeddings, memória ou derivados forem persistidos e precisarem ser excluídos ou restaurados.
+- MTR1-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
+- MTR1-B006 — BAS-006: Solução em homologação material, produção, operação existente ou que exija telemetria, detecção, contenção, continuidade ou recuperação.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -10037,15 +9923,14 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
@@ -10122,16 +10007,15 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
+- MTR1-B001-S02 — BAS-001, 2. Identidade, acesso e segredos: Quando houver usuário, workload, conta administrativa, credencial, segredo ou acesso a recurso de IA.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B006-S07 — BAS-006, 7. Contenção técnica e comportamento seguro: Quando a solução exigir kill switch, bloqueio individual, circuit breaker, retries limitados, revogação ou fallback seguro.
 
 </details>
 
@@ -10208,16 +10092,15 @@ Eventos, traces, dashboards, regras SIEM, alertas, teste de falha, backup, resto
 
 **Documentos e seções:**
 
-- FRM-002 v1.0 — 12. Telemetria, detecção, continuidade e resposta
 - MET-001 v1.1 — § 11 — Seleção dos controles; § 12 — Avaliação dos controles; § 13 — Risco residual; § 14 — Condições bloqueantes
-- MTR-002 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
+- MTR-001 v1.0 — § 9.1 — BAS-001: controles transversais; § 9.5 — BAS-005: desenvolvimento e MLOps; § 9.6 — BAS-006: telemetria, detecção e resiliência; § 10 — Regra individual de controle
 - BAS-006 — Telemetria, Detecção e Resiliência
 
 **Regras vinculadas:**
 
-- MTR2-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
-- MTR2-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
-- MTR2-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
+- MTR1-B001-S07 — BAS-001, 7. Resiliência e recuperação: Quando houver dependência operacional, serviço produtivo, ação material ou necessidade de recuperação e desativação.
+- MTR1-B005-S08 — BAS-005, 8. Rollback, descontinuação e descarte técnico: Quando a solução precisar retornar versão, retirar modelo, revogar acesso, eliminar caches ou impedir reativação.
+- MTR1-B006-S08 — BAS-006, 8. Recuperação, continuidade e desativação técnica: Quando houver requisito de backup, restauração, redundância, recuperação, plano de saída ou desativação segura.
 
 </details>
 
